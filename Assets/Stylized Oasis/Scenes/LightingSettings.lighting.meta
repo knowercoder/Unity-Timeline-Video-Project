@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 477cc4148fad3449482a3bc3178594e2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194606
+  packageName: Stylized Oasis
+  packageVersion: 1.0
+  assetPath: Assets/Stylized Oasis/Scenes/LightingSettings.lighting
+  uploadId: 431341

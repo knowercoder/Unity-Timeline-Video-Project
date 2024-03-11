@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e7689051185d12f4298e1ebb2693a29f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194606
+  packageName: Stylized Oasis
+  packageVersion: 1.0
+  assetPath: Assets/Stylized Oasis/Presets/Defaults/AudioDecompressOnLoad.preset
+  uploadId: 431341

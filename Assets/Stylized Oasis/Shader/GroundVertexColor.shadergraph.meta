@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: c0b20adaae53bd749a7b5726fa6670db
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 625f186215c104763be7675aa2d941aa, type: 3}
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194606
+  packageName: Stylized Oasis
+  packageVersion: 1.0
+  assetPath: Assets/Stylized Oasis/Shader/GroundVertexColor.shadergraph
+  uploadId: 431341

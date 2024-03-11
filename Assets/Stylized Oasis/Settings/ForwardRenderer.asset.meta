@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 66c0f6faa269b214a99098e2821b7ab6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194606
+  packageName: Stylized Oasis
+  packageVersion: 1.0
+  assetPath: Assets/Stylized Oasis/Settings/ForwardRenderer.asset
+  uploadId: 431341
